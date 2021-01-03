@@ -2,8 +2,8 @@ Rencana konten baru
 - membuat akun youtube
   * tutorial
   * seluh beluk
-- fundamental struktur baru
-  * laravel
+  * react
+  * saran
 - membuat akun instagram
   * membuat ig tv
   * membuat filter ig
