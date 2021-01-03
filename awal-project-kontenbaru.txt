@@ -4,4 +4,7 @@ Rencana konten baru
   * seluh beluk
 - fundamental struktur baru
 - membuat akun instagram
+  * membuat ig tv
+  * membuat filter ig
 - membuat grup di facebook
+  * sharing wawasan
