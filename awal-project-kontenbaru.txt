@@ -2,5 +2,6 @@ Rencana konten baru
 - membuat akun youtube
   * tutorial
   * seluh beluk
+- fundamental struktur baru
 - membuat akun instagram
 - membuat grup di facebook
