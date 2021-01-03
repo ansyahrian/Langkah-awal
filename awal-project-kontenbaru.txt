@@ -16,5 +16,5 @@ Rencana konten baru
 - Membuat twitter
   * log-in
   * membuat akun
-  * membuat konten
-
+  * membuat konten 
+  * membuat konten yang menarik dan kontroversial
