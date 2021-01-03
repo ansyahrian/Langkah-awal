@@ -1,4 +1,6 @@
 Rencana konten baru
 - membuat akun youtube
+  * tutorial
+  * seluh beluk
 - membuat akun instagram
 - membuat grup di facebook
