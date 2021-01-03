@@ -2,6 +2,9 @@ Rencana konten baru
 - membuat akun youtube
   * tutorial
   * seluh beluk
+  * react
+  * saran
 - fundamental struktur baru
+  * laravel
 - membuat akun instagram
 - membuat grup di facebook
