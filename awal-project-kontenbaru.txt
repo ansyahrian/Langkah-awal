@@ -4,6 +4,8 @@ Rencana konten baru
   * seluh beluk
   * react
   * saran
+- fundamental struktur baru
+  * laravel
 - membuat akun instagram
   * membuat ig tv
   * membuat filter ig
