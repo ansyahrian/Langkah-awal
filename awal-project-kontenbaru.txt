@@ -3,6 +3,7 @@ Rencana konten baru
   * tutorial
   * seluh beluk
 - fundamental struktur baru
+  * laravel
 - membuat akun instagram
   * membuat ig tv
   * membuat filter ig
