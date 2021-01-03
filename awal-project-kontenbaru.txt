@@ -12,9 +12,9 @@ Rencana konten baru
 - ingin membuat kesalahan 
   * harus gagal dulu
   * harus salah terlebih dahulu 
-  * bisa aja coba
 - Membuat twitter
   * log-in
   * membuat akun
   * membuat konten 
-  * membuat konten yang menarik dan kontroversial
+  * ingin memberi masukan
+
