@@ -15,6 +15,6 @@ Rencana konten baru
 - Membuat twitter
   * log-in
   * membuat akun
-  * membuat konten
+  * membuat konten 
   * ingin memberi masukan
 
