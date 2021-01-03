@@ -9,3 +9,10 @@ Rencana konten baru
 - membuat akun instagram
   * membuat ig tv
   * membuat filter ig
+- ingin membuat kesalahan 
+  * harus gagal dulu
+  * harus salah terlebih dahulu 
+  * bisa aja coba
+- Membuat twitter
+  * log-in
+  * membuat akun
