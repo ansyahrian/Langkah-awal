@@ -7,4 +7,5 @@ Rencana konten baru
 - fundamental struktur baru
   * laravel
 - membuat akun instagram
-- membuat grup di facebook
+  * membuat ig tv
+  * membuat filter ig
