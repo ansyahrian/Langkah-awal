@@ -8,8 +8,13 @@ Rencana konten baru
   * laravel
 - membuat akun instagram
   * membuat ig tv
-  * membuat filter ig 
-- membuat twitter
+  * membuat filter ig
+- ingin membuat kesalahan 
+  * harus gagal dulu
+  * harus salah terlebih dahulu 
+  * bisa aja coba
+- Membuat twitter
   * log-in
+  * membuat akun
   * membuat konten
-  * ingin ngebacot
+
