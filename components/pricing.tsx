@@ -21,7 +21,7 @@ const plans = [
   {
     tag: "Untuk Reseller",
     name: "Paket Reseller",
-    subtitle: "Isi 10 kartu — harga hemat untuk dijual kembali",
+    subtitle: "Isi 5 kartu — harga hemat untuk dijual kembali",
     features: [
       "10 kartu NFC / QR Google Review",
       "Harga khusus reseller (hanya Rp25.000/kartu)",
