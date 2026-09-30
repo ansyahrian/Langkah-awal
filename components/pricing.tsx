@@ -21,7 +21,7 @@ const plans = [
   {
     tag: "Untuk Reseller",
     name: "Paket Reseller",
-    subtitle: "Isi 10 kartu — harga hemat untuk dijual kembali",
+    subtitle: "Isi 5 kartu — harga hemat untuk dijual kembali",
     features: [
       "10 kartu NFC / QR Google Review",
       "Harga khusus reseller (hanya Rp25.000/kartu)",
@@ -30,10 +30,10 @@ const plans = [
     ],
     note: "Isi 10 kartu — setara Rp25.000/kartu",
     badge: "Paling Hemat",
-    oldPrice: "Rp500.000",
-    price: "Rp250.000",
-    unit: "/ 10 kartu",
-    save: "Hemat 50%",
+    oldPrice: "Rp150.000",
+    price: "Rp125.000",
+    unit: "/ 5 kartu",
+    save: "Hemat 30%",
     href: "http://lynk.id/rynfbn/5871jgp7q6z3",
     featured: true,
   },

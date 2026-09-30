@@ -10,7 +10,7 @@ export function SupplierHighlight() {
               Keuntungan Produk
             </p>
             <h2 className="mt-3 text-balance font-display text-3xl font-bold tracking-tight sm:text-4xl">
-              Akses supplier dengan harga mulai Rp20.000.
+              Akses supplier dengan harga mulai Rp25.000.
             </h2>
             <p className="mt-4 max-w-md text-pretty leading-relaxed text-primary-foreground/80">
               Bangun peluang reseller Anda dengan akses supplier kartu NFC / QR dan harga yang lebih terjangkau.
