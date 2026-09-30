@@ -23,7 +23,7 @@ export function SupplierHighlight() {
           </div>
 
           <div className="flex flex-col items-center justify-center rounded-2xl bg-primary-foreground/10 p-10 text-center">
-            <span className="font-display text-5xl font-extrabold sm:text-6xl">Rp20.000</span>
+            <span className="font-display text-5xl font-extrabold sm:text-6xl">Rp25.000</span>
             <span className="mt-2 text-sm text-primary-foreground/80">Harga akses supplier mulai</span>
           </div>
         </div>
