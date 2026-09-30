@@ -15,7 +15,7 @@ const plans = [
     badge: "Personal",
     price: "Rp30.000",
     unit: "/ 1 kartu",
-    href: "https://lynk.id/rynfbn/04epvlyz88dy",
+    href: "https://s.shopee.co.id/9zy99JsAwj",
     featured: false,
   },
   {
@@ -34,7 +34,7 @@ const plans = [
     price: "Rp125.000",
     unit: "/ 5 kartu",
     save: "Hemat 30%",
-    href: "http://lynk.id/rynfbn/5871jgp7q6z3",
+    href: "https://s.shopee.co.id/50ZTC2UXs4",
     featured: true,
   },
 ]
