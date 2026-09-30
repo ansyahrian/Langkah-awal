@@ -13,7 +13,7 @@ const plans = [
     ],
     note: "Harga per 1 kartu",
     badge: "Personal",
-    price: "Rp30.000",
+    price: "Rp50.000",
     unit: "/ 1 kartu",
     href: "https://lynk.id/rynfbn/04epvlyz88dy",
     featured: false,
